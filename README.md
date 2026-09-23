@@ -87,7 +87,7 @@ The agent will leverage Nyrobrain's core runtime logic to establish proper works
 
 ```text
 Anson-Nyrobrain-Skills/
-├── agents/                     # Agents Profile Team Recruitment
+├── agents/                     # Agents Profile Team Recruitment (use /create-agents skill)
 │   ├── strategy/
 │   │   ├── alpha_idea_proposer.md        # Generates quantitative trade ideas, hypotheses, and feature engineering schemas.
 │   │   └── research_pipeline_allocator.md # Orchestrates compute resources, scheduling backtests pipeline routing and vetting alpha signals.
@@ -99,7 +99,7 @@ Anson-Nyrobrain-Skills/
 │   └── deploy/
 │       └── runtime_watcher.md           # Oversees agent uptime, health checks, environment states, and failsafe execution.
 │
-├── skills/                     # Active agent skills directory
+├── skills/                     # Active agent skills directory (use /create-skills skill)
 │   ├── strategy/               # Alpha generation & backtesting logic
 │   │   └── SKILL.md
 │   ├── portfolio/              # Risk management & asset sizing
