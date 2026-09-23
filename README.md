@@ -4,7 +4,9 @@
 <img width="1371" height="523" src="https://github.com/user-attachments/assets/51d6cb5b-0e5f-4c00-9e5d-187cdaa9c7b8" />
 Welcome to **Nyrobrain Skills**—a high-performance, data-driven AI agent skill layer built for automated quantitative research, strategy optimization, and systematic execution. 
 
-This repository leverages the native agent skill surface, moving away from legacy manual documentation in favor of dynamic, execution-ready system capabilities that plug directly into your local AI agent (Claude Code, OpenClaw, Codex).
+This repository leverages the native agent skill surface, moving away from legacy manual documentation in favor of dynamic, execution-ready system capabilities that plug directly into your Nyrobrain workspace.
+
+https://www.nyrobrain.com/
 
 ---
 
