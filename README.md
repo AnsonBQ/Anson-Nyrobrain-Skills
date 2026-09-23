@@ -1,10 +1,7 @@
 # 🧠 Nyrobrain Agent Skills (`Anson-Nyrobrain-Skills`)
 
-<img width="868" height="540" alt="Screenshot 2026-05-04 at 8 34 16 PM" src="https://github.com/user-attachments/assets/f25188f6-8d08-4818-9c10-e3e5a9fbe46c" />
-<img width="1371" height="523" alt="Screenshot 2026-09-23 at 5 33 43 PM" src="https://github.com/user-attachments/assets/51d6cb5b-0e5f-4c00-9e5d-187cdaa9c7b8" />
-
-
-
+<img width="868" height="540" src="https://github.com/user-attachments/assets/f25188f6-8d08-4818-9c10-e3e5a9fbe46c" />
+<img width="1371" height="523" src="https://github.com/user-attachments/assets/51d6cb5b-0e5f-4c00-9e5d-187cdaa9c7b8" />
 Welcome to **Nyrobrain Skills**—a high-performance, data-driven AI agent skill layer built for automated quantitative research, strategy optimization, and systematic execution. 
 
 This repository leverages the native agent skill surface, moving away from legacy manual documentation in favor of dynamic, execution-ready system capabilities that plug directly into your local AI agent (Claude Code, OpenClaw, Codex).
