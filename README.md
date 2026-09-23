@@ -27,6 +27,25 @@ Before adding the skills, make sure your machine has the required package runtim
 
 * **Node.js** (v18 or higher recommended) – [Download Node.js](https://nodejs.org)
 
+or install via bash:
+### 🍏 macOS (via Homebrew)
+If you use Homebrew, open Terminal and run:
+```bash
+brew install node
+```
+
+### 🪟 Windows (via winget)
+Open PowerShell as an Administrator and run:
+```powershell
+winget install OpenJS.NodeJS
+```
+
+### 🐧 Linux (Ubuntu/Debian)
+Open your terminal and run:
+```bash
+sudo apt update && sudo apt install -y nodejs npm
+```
+
 To verify if your system is ready, open your terminal or PowerShell and run:
 ```bash
 node -v && npm -v
