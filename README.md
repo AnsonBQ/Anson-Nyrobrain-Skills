@@ -21,6 +21,19 @@ Nyrobrain operates on a modular skill-based framework. Instead of copying text i
 
 ---
 
+## 📋 Prerequisites
+
+Before adding the skills, make sure your machine has the required package runtime installed (supports macOS, Windows, and Linux):
+
+* **Node.js** (v18 or higher recommended) – [Download Node.js](https://nodejs.org)
+
+To verify if your system is ready, open your terminal or PowerShell and run:
+```bash
+node -v && npm -v
+```
+
+---
+
 ## 📦 Installation
 
 Install the entire Nyrobrain skill suite directly into your local agent environment using a single command:
