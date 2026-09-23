@@ -117,5 +117,5 @@ If you are developing custom patches or expanding the trading surfaces:
 3. Validate your triggers locally before opening a Pull Request.
 
 ## 💵 Some of the skills required paid API. (non-sponsored)
-/deepapi (https://deepapi.co)
-/jev (https://typesafe.ai)
+* `/deepapi` (https://deepapi.co)
+* `/jev` (https://typesafe.ai)
