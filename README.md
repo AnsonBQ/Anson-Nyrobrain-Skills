@@ -115,3 +115,7 @@ If you are developing custom patches or expanding the trading surfaces:
 1. Fork the repository.
 2. Build reusable modules under the `skills/` subdirectory rather than creating standalone text instructions.
 3. Validate your triggers locally before opening a Pull Request.
+
+## 💵 Some of the skills required paid API. (non-sponsored)
+/deepapi (https://deepapi.co)
+/jev (https://typesafe.ai)
