@@ -83,7 +83,7 @@ The agent will leverage Nyrobrain's core runtime logic to establish proper works
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure (Example for reference)
 
 ```text
 Anson-Nyrobrain-Skills/
