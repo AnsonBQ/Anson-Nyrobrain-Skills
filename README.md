@@ -87,6 +87,18 @@ The agent will leverage Nyrobrain's core runtime logic to establish proper works
 
 ```text
 Anson-Nyrobrain-Skills/
+├── agents/                     # Agents Profile Team Recruitment
+│   ├── strategy/
+│   │   ├── alpha_idea_proposer.md        # Generates quantitative trade ideas, hypotheses, and feature engineering schemas.
+│   │   └── research_pipeline_allocator.md # Orchestrates compute resources, scheduling backtests pipeline routing and vetting alpha signals.
+│   ├── portfolio/
+│   │   └── dynamic_capital_allocator.md  # Manages risk parity, factor exposure, position sizing, alpha pool and drawdown limits.
+│   ├── execution/
+│   │   ├── performance_monitor.md       # Tracks slippage, fill rates, transaction costs, backtest vs real-run, and real-time PnL.
+│   │   └── data_delay_watcher.md        # Monitors websocket feeds, REST polling latencies, and cross-exchange book synchronization.
+│   └── deploy/
+│       └── runtime_watcher.md           # Oversees agent uptime, health checks, environment states, and failsafe execution.
+│
 ├── skills/                     # Active agent skills directory
 │   ├── strategy/               # Alpha generation & backtesting logic
 │   │   └── SKILL.md
